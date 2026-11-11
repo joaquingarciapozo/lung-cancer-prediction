@@ -252,4 +252,4 @@ A high recall alone does not guarantee that a detection system is safe. Model se
 
 ## 📄 License
 
-No license has been specified for this project. If the repository is published publicly, an explicit license should be selected after reviewing the usage and redistribution conditions of the original dataset.
+This project is intended for educational and research purposes. The dataset is provided by its original authors and remains subject to its respective terms of use.
